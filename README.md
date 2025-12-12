@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush2005soumya&show_icons=true&theme=tokyonight" alt="Ayuah's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush2005soumya&show_icons=true&theme=tokyonight" alt="Ayush's GitHub stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2005soumya&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
